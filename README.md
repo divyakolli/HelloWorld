@@ -1,3 +1,3 @@
 # HelloWorld
 
-First GIT project
+First GIT project for practice
